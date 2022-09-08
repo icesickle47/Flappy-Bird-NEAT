@@ -10,4 +10,6 @@ Images ripped from the internet
 
 HOW TO RUN
 1. make sure all import requirements are met (best to create a python virtual env)
-2. run flappy.py and
+2. run flappy.py 
+
+Thanks to YT@Tech_With_Tim for the tutorial
